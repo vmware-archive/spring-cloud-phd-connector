@@ -1,0 +1,3 @@
+include "spring-cloud-phd-cloudfoundry-connector"
+include "spring-cloud-phd-spring-connector"
+include "spring-cloud-phd-connector-core"

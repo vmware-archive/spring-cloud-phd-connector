@@ -1,0 +1,2 @@
+io.pivotal.spring.cloud.service.hadoop.HadoopConfigurationCreator
+io.pivotal.spring.cloud.service.gemfire.GemfireXDDataSourceCreator
